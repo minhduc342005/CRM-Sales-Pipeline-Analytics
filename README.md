@@ -196,9 +196,9 @@ CRM_Sales_Pipeline_Analytics/
 │   ├── CRM_and_Sales_Pipelines.xlsx       # Raw data (3,000 rows · 17 columns)
 │   └── crm_cleaned_data.csv                       # Cleaned & feature-engineered export
 ├── notebook/
-│   └── CRM_Analytics.ipynb               # Full Python analysis (9 sections)
+│   └── CRM_Analytics.ipynb               # Full Python analysis (
 ├── sql/
-│   └── crm_ssms_final.sql                # 19 T-SQL queries for SSMS
+│   └── crm_ssms_final.sql                # 19 T-SQL queries 
 ├── report/
 │   └── CRM_Analytics.docx            # Word report with findings & recommendations
 ├── dashboard/
