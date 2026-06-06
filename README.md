@@ -193,21 +193,21 @@ Forward-looking view for finance and Sales ops teams.
 ```
 CRM_Sales_Pipeline_Analytics/
 ├── data/
-│   ├── CRM_and_Sales_Pipelines.xlsx       # Raw data (3,000 rows · 17 columns)
-│   └── crm_cleaned_data.csv                       # Cleaned & feature-engineered export
+│   ├── CRM_and_Sales_Pipelines.xlsx     
+│   └── crm_cleaned_data.csv                      
 ├── notebook/
-│   └── CRM_Analytics.ipynb               # Full Python analysis (
+│   └── CRM_Analytics.ipynb            
 ├── sql/
-│   └── crm_ssms_final.sql                # 19 T-SQL queries 
+│   └── crm_ssms_final.sql              
 ├── report/
-│   └── CRM_Analytics.docx            # Word report with findings & recommendations
+│   └── CRM_Analytics.docx            
 ├── dashboard/
-│   └── CRM_Analyst.pbix                  # Power BI dashboard (4 pages)
+│   └── CRM_Analyst.pbix                 
 ├── assets/
-│   ├── overview.png                      # Page 1 screenshot
-│   ├── pipeline_market.png               # Page 2 screenshot
-│   ├── agent_performance.png             # Page 3 screenshot
-│   └── forecast_risk.png                 # Page 4 screenshot
+│   ├── overview.png                     
+│   ├── pipeline_market.png        
+│   ├── agent_performance.png             
+│   └── forecast_risk.png               
 └── README.md
 ```
 
