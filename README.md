@@ -140,6 +140,7 @@ Python script using SQLAlchemy + pyodbc to load data into SSMS (Windows Authenti
 **4 pages · 18 DAX measures · Cross-page slicers**
 
 ### Page 1 — Overview
+![Overview](https://github.com/minhduc342005/CRM-Sales-Pipeline-Analytics/blob/main/assets/overview.PNG)
 High-level snapshot for management.
 - **KPI Cards:** Total Leads · Total Won · Win Rate (57.64%) · Open Pipeline ($1.91M) · Forecast M1 ($1.10M)
 - **Funnel Chart:** Status distribution — Opportunity bottleneck (867 deals) visible
@@ -147,6 +148,8 @@ High-level snapshot for management.
 - **Line + Column:** Monthly trend Jan–May 2024 — volume bars + win rate line
 
 ### Page 2 — Pipeline & Market
+![ Pipeline & Market](https://github.com/minhduc342005/CRM-Sales-Pipeline-Analytics/blob/main/assets/pipeline_market.PNG)
+
 Geographic and industry analysis for Sales strategy.
 - **Bar Chart:** Industry win rate — IT Services (81%) vs Agriculture (22%)
 - **Line + Column:** Country analysis — Belgium highest WR (73%), Austria lowest (40%)
@@ -154,6 +157,7 @@ Geographic and industry analysis for Sales strategy.
 - **Line + Column:** Org size — Avg Won Deal + Win Rate by company size
 
 ### Page 3 — Agent Performance
+![Agent Performance](https://github.com/minhduc342005/CRM-Sales-Pipeline-Analytics/blob/main/assets/agent_performance.PNG)
 Team analysis for coaching and deal assignment decisions.
 - **Bar Chart:** Win rate by agent — Sarah Davis leads (72.7%), David Wilson last (33.3%)
 - **Bar Chart:** Revenue by agent — Laura Thompson leads ($48K), different ranking reveals style difference
@@ -161,6 +165,7 @@ Team analysis for coaching and deal assignment decisions.
 - **Scatter Chart:** Probability calibration — bubble size = deals closed, X = expected %, Y = actual %
 
 ### Page 4 — Forecast & Risk
+![Forecast & Risk](https://github.com/minhduc342005/CRM-Sales-Pipeline-Analytics/blob/main/assets/forecast_risk.PNG)
 Forward-looking view for finance and Sales ops teams.
 - **KPI Cards:** Forecast M1 ($1.10M) · Forecast M2 ($873K) · Spread ($228K) · Win Rate (58%)
 - **Column Chart:** Three-method forecast comparison
