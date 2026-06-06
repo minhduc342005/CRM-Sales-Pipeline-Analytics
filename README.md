@@ -189,13 +189,13 @@ Forward-looking view for finance and Sales ops teams.
 CRM_Sales_Pipeline_Analytics/
 ├── data/
 │   ├── CRM_and_Sales_Pipelines.xlsx       # Raw data (3,000 rows · 17 columns)
-│   └── crm_data.csv                       # Cleaned & feature-engineered export
+│   └── crm_cleaned_data.csv                       # Cleaned & feature-engineered export
 ├── notebook/
 │   └── CRM_Analytics.ipynb               # Full Python analysis (9 sections)
 ├── sql/
 │   └── crm_ssms_final.sql                # 19 T-SQL queries for SSMS
 ├── report/
-│   └── Executive_Summary.docx            # Word report with findings & recommendations
+│   └── CRM_Analytics.docx            # Word report with findings & recommendations
 ├── dashboard/
 │   └── CRM_Analyst.pbix                  # Power BI dashboard (4 pages)
 ├── assets/
