@@ -1,7 +1,6 @@
 # 📊 CRM & Sales Pipeline Analytics
 
-> End-to-end data analytics project using **Python**, **SQL Server (SSMS)**, and **Power BI** to analyze 3,000 B2B sales deals across 9 European countries — uncovering pipeline bottlenecks, agent performance gaps, revenue forecast accuracy, and lost opportunity patterns.
-
+> End-to-end B2B sales pipeline analytics using Python, SQL Server, and Power BI — uncovering pipeline bottlenecks, agent performance gaps, and revenue forecast accuracy across 3,000 deals in 9 European countries.
 ---
 
 ## 🔍 What This Project Does
